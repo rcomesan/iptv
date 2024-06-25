@@ -1,0 +1,42 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1358" tvg-name="Telemax" tvg-logo="https://uapload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1 tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="Argentina",LN+
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1 tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" group-title="Argentina",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24
+https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://es.wikipedia.org/wiki/Canal_26_(Argentina)#/media/Archivo:Canal_26_logo_(2022).svg" tvg-id="Canal 26" group-title="Argentina",Canal 26
+https://youtu.be/RnTmtVFTSf0
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" tvg-id="Telefe" group-title="Argentina",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="América" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América
+https://www.youtube.com/watch?v=zcWXboTnous
+#EXTINF:-1 tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1 tvg-name="El Destape" tvg-logo="https://i.imgur.com/Wlih4OW.jpeg" tvg-id="El Destape" group-title="Argentina",El Destape
+https://www.youtube.com/watch?v=WO2d17DqMMI
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Encuentro Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓖ
+https://www.youtube.com/user/encuentro/live
+#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" group-title="Argentina",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" group-title="Argentina",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://es.wikipedia.org/wiki/France_24#/media/Archivo:France24.png" tvg-id="France 24" group-title="Argentina",France 24
+https://www.youtube.com/watch?v=Y-IlMeCCtIg
+#EXTINF:-1 tvg-name="RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" tvg-id="RT Noticias" group-title="Argentina",RT Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="teleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TeleSUR-Logo.svg" tvg-id="teleSUR" group-title="Argentina",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/gHKxqSh.png" tvg-id="teleSUR" group-title="Argentina",TyC Sports
+https://000.pricesaskeloadsc.com/tyc_sports/index.m3u8?token=d24a60d2bed6f047d553379062e8cbdf142f2bce-9f-1718939721-1718928921
+
+
+
