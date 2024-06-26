@@ -18,6 +18,9 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://es.wikipedia.org/wiki/Canal_26_(Argentina)#/media/Archivo:Canal_26_logo_(2022).svg" tvg-id="Canal 26" group-title="Argentina",Canal 26
 https://youtu.be/RnTmtVFTSf0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV Pública
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina",El Nueve
 http://45.5.151.151:8000/play/a0ll/index.m3u8
 
@@ -35,6 +38,9 @@ https://www.youtube.com/c/cronicatv/live
 
 #EXTINF:-1 tvg-name="El Destape" tvg-logo="https://i.imgur.com/Wlih4OW.jpeg" tvg-id="El Destape" group-title="Argentina",El Destape
 https://www.youtube.com/watch?v=WO2d17DqMMI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnQUlcw.png" group-title="Argentina",Canal 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="Argentina",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -78,8 +84,8 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Big Cine" tvg-id="Big Cine" group-title="Retro",Big Cine
 https://glb.bozztv.com/glb/ssh101/canalonline/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Chilevisual Retro" tvg-id="Chilevisual Retro" group-title="Retro;Chile",Chilevisual Retro
+#EXTINF:-1 tvg-name="Chilevisual Retro" tvg-id="Chilevisual Retro" group-title="Retro",Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="TVS Retro" tvg-id="TVS Retro" group-title="Retro;Guatemala",TVS Retro
+#EXTINF:-1 tvg-name="TVS Retro" tvg-id="TVS Retro" group-title="Retro",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
