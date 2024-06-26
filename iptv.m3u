@@ -13,10 +13,13 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N
-https://www.youtube.com/c/c5n/live
+https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://es.wikipedia.org/wiki/Canal_26_(Argentina)#/media/Archivo:Canal_26_logo_(2022).svg" tvg-id="Canal 26" group-title="Argentina",Canal 26
 https://youtu.be/RnTmtVFTSf0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina",El Nueve
+http://45.5.151.151:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" tvg-id="Telefe" group-title="Argentina",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -62,3 +65,21 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/gHKxqSh.png" tvg-id="teleSUR" group-title="Argentina",TyC Sports
 https://000.pricesaskeloadsc.com/tyc_sports/index.m3u8?token=d24a60d2bed6f047d553379062e8cbdf142f2bce-9f-1718939721-1718928921
+
+#EXTINF:-1 tvg-name="RetroX TV" tvg-id="RetroX TV" group-title="Retro",RetroX TV
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-name="TV Retro Palmares" tvg-id="TV Retro Palmares" group-title="Retro",TV Retro Palmares
+https://glb.bozztv.com/glb/ssh101/tvretropalmares/index.m3u8
+
+#EXTINF:-1 tvg-name="Retro TV Online" tvg-id="Retro TV Online" group-title="Retro",Retro TV Online
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Big Cine" tvg-id="Big Cine" group-title="Retro",Big Cine
+https://glb.bozztv.com/glb/ssh101/canalonline/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisual Retro" tvg-id="Chilevisual Retro" group-title="Retro;Chile",Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="TVS Retro" tvg-id="TVS Retro" group-title="Retro;Guatemala",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
